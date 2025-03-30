@@ -1,4 +1,4 @@
-# Omkar Lokhande AI Chatbot
+# Omkar Lokhande AI Assistant Chatbot
 
 This AI chatbot is designed to provide detailed and accurate information about **Omkar Lokhande**, his professional profile, and related inquiries. The chatbot uses Hugging Face's `google/gemma-2-2b-it` model with LangChain integration.
 
