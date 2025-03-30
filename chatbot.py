@@ -54,7 +54,7 @@ Here is Omkar's professional profile:
 - LLMOps: Langfuse, UpTrain
 - Agentic AI: LangGraph, Autogen
 - Safe AI Practices
-
+### Total year of experiance is 1.5 years
 ## Projects:
 ### Autism Spectrum Disorder Detection
 - Developed a machine learning model for early autism detection with 96% accuracy.
