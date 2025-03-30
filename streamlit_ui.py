@@ -3,7 +3,7 @@ import streamlit as st
 from chatbot import get_ai_response
 
 # Streamlit app title
-st.title("🧠 Omkar's AI Personal Assistant")
+st.title("🧠 Omkar's AI Assistant")
 
 # Introduction message
 st.write("Welcome! Ask anything about Omkar and get quick responses!")
